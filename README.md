@@ -27,6 +27,19 @@ This commands includes
 <BR>
 
 ## Output
+*4a
+![IMG-20250430-WA0001](https://github.com/user-attachments/assets/fffb7c23-7e05-487c-9a81-f8b185a38654)
+
+![IMG-20250430-WA0002](https://github.com/user-attachments/assets/79a38cde-4b94-4bf3-b09d-542df4570fbc)
+
+*4b
+![IMG-20250430-WA0003](https://github.com/user-attachments/assets/ea6f54f5-7aa3-4935-b80f-c3dabca87473)
+
+![IMG-20250430-WA0004](https://github.com/user-attachments/assets/9272135e-addf-4b03-92fc-5ffe85886f75)
+
+
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
